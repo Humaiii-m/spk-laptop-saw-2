@@ -1,0 +1,168 @@
+{
+  "criteria": [
+    {
+      "id": "c1",
+      "code": "C1",
+      "name": "Harga",
+      "type": "cost",
+      "weight": 25
+    },
+    {
+      "id": "c2",
+      "code": "C2",
+      "name": "RAM",
+      "type": "benefit",
+      "weight": 20
+    },
+    {
+      "id": "c3",
+      "code": "C3",
+      "name": "Processor",
+      "type": "benefit",
+      "weight": 20
+    },
+    {
+      "id": "c4",
+      "code": "C4",
+      "name": "Storage",
+      "type": "benefit",
+      "weight": 15
+    },
+    {
+      "id": "c5",
+      "code": "C5",
+      "name": "Bundling OS",
+      "type": "benefit",
+      "weight": 10
+    },
+    {
+      "id": "c6",
+      "code": "C6",
+      "name": "Jenis",
+      "type": "benefit",
+      "weight": 10
+    }
+  ],
+  "alternatives": [
+    {
+      "id": "a1",
+      "name": "Asus Vivobook 14",
+      "values": {
+        "c1": 7500000,
+        "c2": 3,
+        "c3": 3,
+        "c4": 4,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a2",
+      "name": "Acer Aspire 5",
+      "values": {
+        "c1": 9000000,
+        "c2": 5,
+        "c3": 5,
+        "c4": 4,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a3",
+      "name": "Lenovo IdeaPad Slim 3",
+      "values": {
+        "c1": 8000000,
+        "c2": 3,
+        "c3": 4,
+        "c4": 2,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a4",
+      "name": "HP Pavilion 14",
+      "values": {
+        "c1": 8500000,
+        "c2": 5,
+        "c3": 4,
+        "c4": 4,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a5",
+      "name": "Dell Inspiron 14",
+      "values": {
+        "c1": 7800000,
+        "c2": 3,
+        "c3": 3,
+        "c4": 2,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a6",
+      "name": "Asus VivoBook Go 14",
+      "values": {
+        "c1": 7200000,
+        "c2": 3,
+        "c3": 3,
+        "c4": 2,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a7",
+      "name": "Acer Swift 3",
+      "values": {
+        "c1": 9500000,
+        "c2": 5,
+        "c3": 5,
+        "c4": 4,
+        "c5": 5,
+        "c6": 5
+      }
+    },
+    {
+      "id": "a8",
+      "name": "Lenovo ThinkPad X260",
+      "values": {
+        "c1": 6500000,
+        "c2": 3,
+        "c3": 3,
+        "c4": 2,
+        "c5": 3,
+        "c6": 2
+      }
+    },
+    {
+      "id": "a9",
+      "name": "HP EliteBook 840",
+      "values": {
+        "c1": 6800000,
+        "c2": 3,
+        "c4": 2,
+        "c3": 4,
+        "c5": 3,
+        "c6": 2
+      }
+    },
+    {
+      "id": "a10",
+      "name": "Dell Latitude 7490",
+      "values": {
+        "c1": 7000000,
+        "c2": 5,
+        "c3": 4,
+        "c4": 4,
+        "c5": 3,
+        "c6": 2
+      }
+    }
+  ]
+}
